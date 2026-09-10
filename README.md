@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 # How to run?
@@ -128,3 +129,6 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+=======
+# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS-main
+>>>>>>> 4bbc12773b1b65222d24792bbcdee2b044beb743
